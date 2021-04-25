@@ -1,6 +1,6 @@
 <h1>SocManSys</h1>
 
-This Django aap is for your society management. 
+This Django app is for your society management. 
 
 <h3>Features</h3>
 
